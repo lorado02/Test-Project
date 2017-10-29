@@ -1,5 +1,3 @@
-print " Hello World to All"
-
-print " Python!!"
+print " Python!!!"
 
 print " Good night everyone"
